@@ -1,5 +1,5 @@
 # SERE-ious-Business
-A total conversion for Operation Harsh Doorstop featuring PvPvE tactival shooter gameplay.
+A total conversion for Operation Harsh Doorstop featuring PvPvE tactical shooter gameplay.
 
 Author: r0astie#3326 on Discord.
 
